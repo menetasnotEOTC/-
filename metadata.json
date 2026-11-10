@@ -1,0 +1,6 @@
+{
+  "name": "Road to Damascus / RTD",
+  "description": "A multi-lingual platform for Oriental Orthodox apologetics, centering the Ethiopian Orthodox Tewahedo Church (EOTC) and its traditions.",
+  "requestFramePermissions": ["microphone"],
+  "requestFramePermissionsReason": "Voice conversations with the Digital Deacon."
+}
